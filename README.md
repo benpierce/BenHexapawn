@@ -9,7 +9,7 @@ This code has been tested on Windows. To run, simply clone this repo and execute
 
 When you initially start the game you'll be prompted to choose a grid size. 3x3 is the standard grid size for Hexapawn; however, in this implementation you can also choose 4x4 or 5x5 if you want to test yourself against the AI in a more complex scenario.
 
-![Choosing Grid Size](img/screen55.png?raw=true "Choosing Grid Size")
+![Choosing Grid Size](img/screen1.png?raw=true "Choosing Grid Size")
 
 Once you've settled on a grid size, you now have 3 options for competitive play:
 
