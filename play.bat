@@ -1,1 +1,1 @@
-python hexapawn.py
+python pysrc\hexapawn.py
