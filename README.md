@@ -25,7 +25,7 @@ Once you've settled on a grid size, you now have 3 options for competitive play:
 
 When the game first starts, you'll be playing as the white player, starting on the buttom row. The AI will be playing as the black player, starting on the top row.
 
-To move one of your pawns, enter **sourcecell**:**destcell**. For instance, **A1**:**A2**. If you enter an invalid move, the program will notify you and you'll be promoted to enter a legal move.
+To move one of your pawns, enter **sourcecell**:**destcell**. For instance, **A1**:**A2**. If you enter an invalid move, the program will notify you and you'll be prompted to enter a legal move.
 
 You can resign at any time by typing *quit* as your move.
 
