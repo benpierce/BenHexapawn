@@ -9,5 +9,5 @@ This code has been tested on Windows. To run, simply clone this repo and execute
 
 When you initially start the game 
 
-![Choosing Grid Size](img/screen1.png?raw=true "Choosing Grid Size" =250x250)
+![Choosing Grid Size](img/screen1.png?raw=true "Choosing Grid Size")
 
