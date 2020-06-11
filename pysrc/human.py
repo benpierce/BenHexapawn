@@ -12,7 +12,7 @@ class Human(Agent):
         
         move = ""
         while True:
-            move = input("Please enter your move in the format FromColRow:DestColRow. Example (A1:B2): ") 
+            move = input("Please enter your move in the format FromColRow:DestColRow. Example (A1:A2): ") 
             print('')
             move = move.upper()  
 
