@@ -35,7 +35,7 @@ You can resign at any time by typing *quit* as your move.
 
 Each turn, the minimax agent will calculate its best possible move by looking ahead to a max depth of 3 and printing out each moves' best possible score, with higher values being better than lower values. 
 
-*999999* means a win is certain, whereas *-999999* means a loss is certain. *0* means the move is neutral. All other scores are based on the number of pawns on the board and the number of forward moves available. A **+** number indicates a favorable move, while a **-** indicates a less favorable move.
+*999999* means a win is certain, whereas *-999999* means a loss is certain. *0* means the move is neutral. All other scores are based on the number of pawns on the board and the number of forward moves available. A **positive** number indicates a favorable move, while a **negative** indicates a less favorable move.
 
 ![Minimax Agent](img/screen4.png?raw=true "Minimax Agent")
 
