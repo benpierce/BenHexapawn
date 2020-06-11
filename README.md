@@ -29,7 +29,7 @@ To move one of your pawns, enter **sourcecell**:**destcell**. For instance, **A1
 
 You can resign at any time by typing *quit* as your move.
 
-![How to Play](img/screen2.png?raw=true "How to Play")
+![How to Play](img/screen3.png?raw=true "How to Play")
 
 
 
