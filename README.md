@@ -5,5 +5,9 @@ Welcome to my Hexapawn Implementation for Reinforcement Learning at UofT
 
 This code has been tested on Windows. To run, simply clone this repo and execute play.bat
 
+## Configuration Options
 
+When you initially start the game 
+
+![Choosing Grid Size](img/screen1.png?raw=true "Choosing Grid Size")
 
