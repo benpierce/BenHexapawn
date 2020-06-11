@@ -39,4 +39,4 @@ Each turn, the minimax agent will calculate its best possible move by looking ah
 
 ![Minimax Agent](img/screen4.png?raw=true "Minimax Agent")
 
-In the above screenshot, we can see that the minimax agent will achieve certain victory in two moves if it moves its pawn from **D3** to **C2** and takes white's pawn. **D5** to **D4** and **E5** to **E4** are also favorable moves, but the minimax algorithm is going to take the move with the best possible outcome which will lead it to victory.
+In the above screenshot, we can see that the minimax agent will achieve certain victory in two moves if it moves its pawn from **D3** to **C2** and takes white's pawn. While **D5** to **D4** and **E5** to **E4** are also favorable moves, the minimax algorithm is going to take the move with the best possible outcome which will lead it to victory.
