@@ -15,11 +15,11 @@ Once you've settled on a grid size, you now have 3 options for competitive play:
 
 ![Completitive Play](img/screen2.png?raw=true "Competitive Play")
 
-1. **Human vs Random Bot**: You play as a human (white) vs a bot that makes random moves (black). This opponent isn't very hard to beat, but serves as a good benchmark AI.
+1. **Human vs Random Bot**: You play as a human (white pawns) vs a bot that makes random moves (black pawns). This opponent isn't very hard to beat, but serves as a good benchmark AI.
 
-1. **Human vs Minimax Bot**: You play as a human (white) vs a bot (black) that uses a minimax with alpha-beta pruning AI. This opponent is considerably harder to beat, and in fact, should be unbeatable on a 3x3 grid. This bot uses a max_depth hyperparameter of 3, so it may be beatable on 4x4 or 5x5 grids, although it will still be very challenging.
+1. **Human vs Minimax Bot**: You play as a human (white pawns) vs a bot (black pawns) that uses a minimax with alpha-beta pruning AI. This opponent is considerably harder to beat, and in fact, should be unbeatable on a 3x3 grid. This bot uses a max_depth hyperparameter of 3, so it may be beatable on 4x4 or 5x5 grids, although it will still be very challenging.
 
-1. **Minimax Bot vs Random Bot**: Sit back and enjoy a show as a minimax bot (white) battles it out with a bot that makes random moves (black). The minimax bot will crush the random bot each time.
+1. **Minimax Bot vs Random Bot**: Sit back and enjoy a show as a minimax bot (white pawns) battles it out with a bot that makes random moves (black pawns). The minimax bot will crush the random bot each time.
 
 ## Playing as a Human
 
